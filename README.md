@@ -1,5 +1,5 @@
+![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
 # YouTube Influencer & Social Media Analytics Dashboard
-
 An interactive Power BI dashboard designed to analyze and visualize global YouTube statistics. This project explores the performance of top-tier content creators, providing insights into subscriber growth, engagement metrics, and estimated earnings across different categories and geographic regions.
 
 ## 📊 Dashboard Overview
