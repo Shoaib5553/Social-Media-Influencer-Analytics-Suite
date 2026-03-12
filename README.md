@@ -12,10 +12,10 @@ The final dashboard provides a comprehensive view of the YouTube landscape, allo
 ## 🖼️ Screenshots
 Below are the snapshots of the final Power BI reports:
 
-![Dashboard Overview](path/to/your/Screenshot%202026-02-16%20005806.jpg)
-![Yearly Analysis]()
-![Category Analysis](path/to/your/Screenshot%202026-02-16%20005849.jpg)
-![Monthly Growth Analysis]()
+![Dashboard Overview](images/overview.png)
+![Yearly Analysis](images/yearly_analysis.png)
+![Category Analysis](images/category.png)
+![Monthly Growth Analysis](images/monthly.png)
 
 ## 🛠️ Tech Stack
 * **Power BI Desktop:** For data modeling, DAX calculations, and visualization.
